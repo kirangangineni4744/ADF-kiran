@@ -1,0 +1,9 @@
+{
+	"name": "Batch01Kiran",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a5d3f07-8801-4d15-aa4f-322ee2865393",
+		"tenantId": "1bd9703f-bbf8-4494-99a9-94de9659d851"
+	}
+}
